@@ -1,1 +1,1 @@
-Live in: https://kadirakyl.github.io/assigment1/
+Live in: https://kadirakyl.github.io/assignment1/
