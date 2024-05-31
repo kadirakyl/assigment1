@@ -87,3 +87,7 @@ img:hover{
     cursor: pointer;
 }
 
+button:hover{
+    width: 115px;
+    height: 50px;
+}
